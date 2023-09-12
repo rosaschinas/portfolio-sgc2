@@ -1,0 +1,538 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: More Widgets Plugin for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-22 14:42-0700\n"
+"PO-Revision-Date: 2016-08-09 12:06-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;"
+"_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;_nx_noop:4c,1,2;"
+"_nx;_esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;"
+"esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: inc/API.php:463
+msgid "Select"
+msgstr ""
+
+#: inc/API.php:694
+msgid "Add New"
+msgstr ""
+
+#: inc/API.php:778
+msgid "Date"
+msgstr ""
+
+#: inc/API.php:779 inc/widgets/About.php:35
+#: inc/widgets/AdvancedRecentPosts.php:36 inc/widgets/Advertisement.php:35
+#: inc/widgets/BusinessInfo.php:35 inc/widgets/CommentsWithAvatars.php:35
+#: inc/widgets/FacebookPage.php:35 inc/widgets/GoogleMap.php:35
+#: inc/widgets/Newsletter.php:35 inc/widgets/PostsSlider.php:36
+#: inc/widgets/SocialProfiles.php:35 inc/widgets/Users.php:35
+msgid "Title"
+msgstr ""
+
+#: inc/API.php:780
+msgid "Modified"
+msgstr ""
+
+#: inc/API.php:781
+msgid "Author"
+msgstr ""
+
+#: inc/API.php:782
+msgid "Random"
+msgstr ""
+
+#: inc/API.php:783
+msgid "Comment Count"
+msgstr ""
+
+#: inc/API.php:797
+msgid "Descending"
+msgstr ""
+
+#: inc/API.php:798
+msgid "Ascending"
+msgstr ""
+
+#: inc/API.php:1005
+msgid "Current window"
+msgstr ""
+
+#: inc/API.php:1006
+msgid "New window"
+msgstr ""
+
+#: inc/widgets/About.php:28
+msgid "About"
+msgstr ""
+
+#: inc/widgets/About.php:40 inc/widgets/Advertisement.php:82
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/About.php:45
+msgid "Image Style"
+msgstr ""
+
+#: inc/widgets/About.php:48 inc/widgets/About.php:58
+msgid "Default"
+msgstr ""
+
+#: inc/widgets/About.php:49 inc/widgets/AdvancedRecentPosts.php:61
+#: inc/widgets/SocialProfiles.php:60
+msgid "Rounded"
+msgstr ""
+
+#: inc/widgets/About.php:50 inc/widgets/AdvancedRecentPosts.php:62
+#: inc/widgets/SocialProfiles.php:61
+msgid "Round"
+msgstr ""
+
+#: inc/widgets/About.php:55
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/About.php:59
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/About.php:60
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/About.php:61
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/About.php:66 inc/widgets/GoogleMap.php:55
+#: inc/widgets/SocialProfiles.php:40
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/About.php:71 inc/widgets/GoogleMap.php:60
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:29
+msgid "Advanced Recent Posts"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:41
+#: inc/widgets/CommentsWithAvatars.php:40 inc/widgets/PostsSlider.php:41
+msgid "Number"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:47
+msgid "Style"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:51
+msgid "Small Image"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:52
+msgid "Full Image"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:57
+msgid "Image Shape"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:60 inc/widgets/SocialProfiles.php:62
+msgid "Square"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:67 inc/widgets/PostsSlider.php:47
+#: inc/widgets/Users.php:77
+msgid "Image Size"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:74
+msgid "Image Width (in pixels)"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:77
+msgid ""
+"Enter a custom width for the image. This will not alter the image itself but "
+"the container the image is located in."
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:81 inc/widgets/PostsSlider.php:72
+msgid "Show Title?"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:87
+msgid "Show Date?"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:93
+msgid "Show Excerpt?"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:99
+msgid "Custom Excerpt Length"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:101
+msgid ""
+"Number of words for a custom excerpt. Leave empty to use the default "
+"WordPress get_excerpt() function."
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:105 inc/widgets/PostsSlider.php:84
+msgid "Ignore Sticky Posts?"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:110 inc/widgets/PostsSlider.php:89
+msgid "Post Type"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:117 inc/widgets/PostsSlider.php:96
+msgid "Order by"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:124 inc/widgets/PostsSlider.php:103
+#: inc/widgets/Users.php:40
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:131 inc/widgets/PostsSlider.php:110
+msgid "Query By Taxonomy"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:137 inc/widgets/PostsSlider.php:116
+msgid "Include Terms"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:139
+#: inc/widgets/AdvancedRecentPosts.php:145 inc/widgets/PostsSlider.php:118
+#: inc/widgets/PostsSlider.php:124
+msgid "Enter a comma seperated list of terms."
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:143 inc/widgets/PostsSlider.php:122
+msgid "Exclude Terms"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:149 inc/widgets/PostsSlider.php:128
+msgid "Custom Query Arguments Callback"
+msgstr ""
+
+#: inc/widgets/AdvancedRecentPosts.php:151 inc/widgets/PostsSlider.php:130
+msgid ""
+"Enter a custom callback function for a more advanced query. This callback "
+"should return an array of arguments to pass onto WP_Query."
+msgstr ""
+
+#: inc/widgets/Advertisement.php:28
+msgid "Advertisement"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:40 inc/widgets/Users.php:63
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:49 inc/widgets/Users.php:70
+msgid "Column Gap"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:56
+msgid "Stretch Images?"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:58
+msgid ""
+"Force a 100% width on the advertisement images so they fill up the parent "
+"container."
+msgstr ""
+
+#: inc/widgets/Advertisement.php:62 inc/widgets/SocialProfiles.php:67
+msgid "Add \"nofollow\" to links?"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:67 inc/widgets/SocialProfiles.php:72
+msgid "Open links in a new tab?"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:72
+msgid "Ads"
+msgstr ""
+
+#: inc/widgets/Advertisement.php:77 inc/widgets/SocialProfiles.php:88
+msgid "Link URL"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:28
+msgid "Business Info"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:40
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:45
+msgid "Phone Number"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:50
+msgid "Mobile Phone Number"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:55
+msgid "Add \"tel\" link to the phone number?"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:60
+msgid "Fax Number"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:65 inc/widgets/Users.php:53
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:70
+msgid "Email Label"
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:72
+msgid "Will display your email by default if this field is empty."
+msgstr ""
+
+#: inc/widgets/BusinessInfo.php:192
+msgid "Email Us"
+msgstr ""
+
+#: inc/widgets/CommentsWithAvatars.php:28
+msgid "Comments With Avatars"
+msgstr ""
+
+#: inc/widgets/CommentsWithAvatars.php:46
+msgid "Avatar Size"
+msgstr ""
+
+#: inc/widgets/CommentsWithAvatars.php:114
+msgid "view comment"
+msgstr ""
+
+#: inc/widgets/CommentsWithAvatars.php:125
+msgid "No comments yet."
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:28
+msgid "Facebook Page"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:40
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:46
+msgid "Language Locale"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:52
+msgid "Tabs"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:55
+msgid "— None —"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:56
+msgid "Timeline"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:57
+msgid "Events"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:58
+msgid "Timeline & Events"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:63
+msgid "Use small header"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:68
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:73
+msgid "Show Faces"
+msgstr ""
+
+#: inc/widgets/FacebookPage.php:107
+msgid ""
+"Facebook widget does not display in the Customizer because it can slow "
+"things down."
+msgstr ""
+
+#: inc/widgets/GoogleMap.php:28
+msgid "Google Map"
+msgstr ""
+
+#: inc/widgets/GoogleMap.php:40
+msgid "Place (Location) Name"
+msgstr ""
+
+#: inc/widgets/GoogleMap.php:45
+msgid "Custom Height (in pixels)"
+msgstr ""
+
+#: inc/widgets/GoogleMap.php:50
+msgid "Custom Width (in pixels)"
+msgstr ""
+
+#: inc/widgets/Newsletter.php:28
+msgid "Newsletter Form"
+msgstr ""
+
+#: inc/widgets/Newsletter.php:40
+msgid "Form Action URL"
+msgstr ""
+
+#: inc/widgets/Newsletter.php:46
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/widgets/Newsletter.php:48
+msgid "Your email address"
+msgstr ""
+
+#: inc/widgets/Newsletter.php:52
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/Newsletter.php:54
+msgid "Sign Up"
+msgstr ""
+
+#: inc/widgets/PostsSlider.php:29
+msgid "Posts Slider"
+msgstr ""
+
+#: inc/widgets/PostsSlider.php:54
+msgid "Auto Play?"
+msgstr ""
+
+#: inc/widgets/PostsSlider.php:60
+msgid "Show Arrows?"
+msgstr ""
+
+#: inc/widgets/PostsSlider.php:66
+msgid "Show Dots?"
+msgstr ""
+
+#: inc/widgets/PostsSlider.php:78
+msgid "Show Category?"
+msgstr ""
+
+#: inc/widgets/SocialProfiles.php:28
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/widgets/SocialProfiles.php:45
+msgid "Custom Icon Dimensions (in px)"
+msgstr ""
+
+#: inc/widgets/SocialProfiles.php:51
+msgid "Custom Icon Font Size (in px)"
+msgstr ""
+
+#: inc/widgets/SocialProfiles.php:57
+msgid "Icon Shape"
+msgstr ""
+
+#: inc/widgets/SocialProfiles.php:77
+msgid "Profiles"
+msgstr ""
+
+#: inc/widgets/SocialProfiles.php:82
+msgid "Site"
+msgstr ""
+
+#: inc/widgets/Users.php:28
+msgid "Users"
+msgstr ""
+
+#: inc/widgets/Users.php:47
+msgid "Orderby"
+msgstr ""
+
+#: inc/widgets/Users.php:50
+msgid "ID"
+msgstr ""
+
+#: inc/widgets/Users.php:51
+msgid "Login"
+msgstr ""
+
+#: inc/widgets/Users.php:52
+msgid "Nicename"
+msgstr ""
+
+#: inc/widgets/Users.php:54
+msgid "URL"
+msgstr ""
+
+#: inc/widgets/Users.php:55
+msgid "Registered"
+msgstr ""
+
+#: inc/widgets/Users.php:56
+msgid "Display Name"
+msgstr ""
+
+#: inc/widgets/Users.php:57
+msgid "Post Count"
+msgstr ""
+
+#: inc/widgets/Users.php:84
+msgid "Include Administrators?"
+msgstr ""
+
+#: inc/widgets/Users.php:90
+msgid "Include Editors?"
+msgstr ""
+
+#: inc/widgets/Users.php:96
+msgid "Include Authors?"
+msgstr ""
+
+#: inc/widgets/Users.php:102
+msgid "Include Contributors?"
+msgstr ""
+
+#: inc/widgets/Users.php:108
+msgid "Include Subscribers?"
+msgstr ""
+
+#: inc/widgets/Users.php:113
+msgid "Link to user posts page?"
+msgstr ""
+
+#: inc/widgets/Users.php:119
+msgid "Display Name?"
+msgstr ""
+
+#: inc/widgets/Users.php:206
+msgid "Archive"
+msgstr ""
+
+#: more-widgets.php:124
+msgid "Do you really want to delete this item?"
+msgstr ""

@@ -1,0 +1,822 @@
+# Translation of Plugins - RaraTheme Companion - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - RaraTheme Companion - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-28 15:21:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - RaraTheme Companion - Stable (latest release)\n"
+
+#: includes/widgets/widget-contact.php:266
+msgid "Open Social Links in New Tab"
+msgstr "Abrir los enlaces sociales en una nueva pestaña"
+
+#: includes/widgets/widget-contact.php:105
+#: includes/widgets/widget-contact.php:259
+msgid "Address"
+msgstr "Dirección"
+
+#: includes/widgets/widget-contact.php:104
+#: includes/widgets/widget-contact.php:254
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/widgets/widget-contact.php:103
+#: includes/widgets/widget-contact.php:249
+msgid "Phone"
+msgstr "Teléfono"
+
+#: includes/widgets/widget-contact.php:45
+msgid "A Contact Widget"
+msgstr "Un widget de contacto"
+
+#: includes/widgets/widget-contact.php:44
+msgid "Rara: Contact Widget"
+msgstr "Rara: Contact Widget"
+
+#: includes/widgets/widget-posts-category-slider.php:250
+msgid "Open Posts in New Tab"
+msgstr "Abrir las entradas en una nueva pestaña"
+
+#: includes/widgets/widget-popular-post.php:84
+#: includes/widgets/widget-popular-post.php:204
+#: includes/widgets/widget-popular-post.php:312
+msgid "Popular Posts"
+msgstr "Entradas populares"
+
+#: admin/class-raratheme-companion-admin.php:173
+msgid "Please upload a valid image file."
+msgstr "Por favor, sube un archivo de imagen válido."
+
+#: admin/class-raratheme-companion-admin.php:191
+msgid "Are you sure you want to delete this Social Media?"
+msgstr "¿Seguro que quieres borrar este medio social?"
+
+#: includes/widgets/widget-featured-page.php:209
+#: includes/widgets/widget-icon-text.php:150
+#: includes/widgets/widget-image.php:132
+#: includes/widgets/widget-team-member.php:220
+msgid "Open in Same Tab"
+msgstr "Abrir en la misma pestaña"
+
+#: includes/templates/single-rara-portfolio.php:39
+msgid "Related Projects"
+msgstr "Proyectos relacionados"
+
+#: includes/templates/portfolio.php:22
+msgid "All"
+msgstr "Todo"
+
+#: includes/class-raratheme-companion-templates.php:52
+msgid "Portfolio Template"
+msgstr "Plantilla del porfolio"
+
+#: admin/class-raratheme-companion-admin.php:295
+msgid "%s Post Type"
+msgstr "Tipo de contenido %s"
+
+#: admin/class-raratheme-companion-admin.php:333
+#: admin/class-raratheme-companion-admin.php:334
+#: admin/class-raratheme-companion-admin.php:343
+msgid "%s Categories"
+msgstr "Categoría %s"
+
+#: admin/class-raratheme-companion-admin.php:291
+msgid "Filter %s list"
+msgstr "Filtrar la lista %s"
+
+#: admin/class-raratheme-companion-admin.php:290
+msgid "%s list navigation"
+msgstr "Navegación de la lista %s"
+
+#: admin/class-raratheme-companion-admin.php:289
+msgid "%s list"
+msgstr "Lista %s"
+
+#: admin/class-raratheme-companion-admin.php:288
+msgid "Uploaded to this %s"
+msgstr "Subido a %s"
+
+#: admin/class-raratheme-companion-admin.php:287
+msgid "Insert into %s"
+msgstr "Insertar en %s"
+
+#: admin/class-raratheme-companion-admin.php:280
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: admin/class-raratheme-companion-admin.php:278
+#: admin/class-raratheme-companion-admin.php:279
+msgid "View %s"
+msgstr "Ver %s"
+
+#: admin/class-raratheme-companion-admin.php:277
+msgid "Update %s"
+msgstr "Actualizar %s"
+
+#: admin/class-raratheme-companion-admin.php:276
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: admin/class-raratheme-companion-admin.php:275
+msgid "New %s"
+msgstr "Nuevo %s"
+
+#: admin/class-raratheme-companion-admin.php:273
+msgid "Add New %s"
+msgstr "Añadir nuevo %s"
+
+#: admin/class-raratheme-companion-admin.php:272
+msgid "All %s"
+msgstr "Todos %s"
+
+#: admin/class-raratheme-companion-admin.php:271
+msgid "%s Parent"
+msgstr "%s principal"
+
+#: admin/class-raratheme-companion-admin.php:270
+msgid "%s Attributes"
+msgstr "Atributos de %s"
+
+#: admin/class-raratheme-companion-admin.php:269
+msgid "%s Archives"
+msgstr "Archivos de %s"
+
+#: admin/class-raratheme-companion-admin.php:238
+msgid "Portfolios"
+msgstr "Porfolios"
+
+#: admin/class-raratheme-companion-admin.php:237
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: includes/widgets/widget-posts-category-slider.php:246
+msgid "Enabling this will change slider direction from 'right to left' to 'left to right'."
+msgstr "Al activarlo, cambiará la dirección del carrusel de «derecha a izquierda» a «izquierda a derecha»."
+
+#: includes/widgets/widget-posts-category-slider.php:245
+msgid "Change Direction"
+msgstr "Cambiar la dirección"
+
+#: includes/widgets/widget-posts-category-slider.php:240
+msgid "Show Slider Pagination"
+msgstr "Mostrar la paginación del carrusel"
+
+#: includes/widgets/widget-posts-category-slider.php:235
+msgid "Show Slider Arrows"
+msgstr "Mostrar las flechas del carrusel"
+
+#: includes/widgets/widget-posts-category-slider.php:230
+msgid "Total number of posts available in the selected category will be the maximum number of slides."
+msgstr "El número total de entradas disponibles en la categoría seleccionada será el número máximo de diapositivas."
+
+#: includes/widgets/widget-posts-category-slider.php:228
+msgid "Number of Slides:"
+msgstr "Número de diapositivas:"
+
+#: includes/widgets/widget-posts-category-slider.php:219
+msgid "Category:"
+msgstr "Categoría:"
+
+#: includes/widgets/widget-custom-categories.php:104
+#: includes/widgets/widget-posts-category-slider.php:179
+msgid "New title"
+msgstr "Nuevo título"
+
+#: includes/widgets/widget-popular-post.php:149
+#: includes/widgets/widget-posts-category-slider.php:97
+#: includes/widgets/widget-recent-post.php:97
+msgid "View all posts in %s"
+msgstr "Ver todas las entradas en %s"
+
+#: includes/widgets/widget-posts-category-slider.php:21
+msgid "Simple posts slider from category."
+msgstr "Sencillo carrusel de entradas de la categoría."
+
+#: includes/widgets/widget-posts-category-slider.php:18
+msgid "Rara: Posts Category Slider"
+msgstr "Rara: Posts Category Slider"
+
+#: includes/widgets/widget-featured-page.php:203
+msgid "Show Read More"
+msgstr "Mostrar «Leer más»"
+
+#: includes/widgets/widget-featured-page.php:190
+msgid "Show Page Full Content"
+msgstr "Mostrar el contenido completo de la página"
+
+#: includes/widgets/widget-featured-page.php:35
+msgid "Centered"
+msgstr "Centrado"
+
+#: includes/widgets/widget-featured-page.php:34
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/widgets/widget-featured-page.php:33
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/widgets/widget-cta.php:249
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: includes/widgets/widget-popular-post.php:230
+msgid "Comment Count"
+msgstr "Recuento de comentarios"
+
+#: includes/widgets/widget-popular-post.php:227
+msgid "Popular based on:"
+msgstr "Popular basado en:"
+
+#: includes/widgets/widget-popular-post.php:222
+#: includes/widgets/widget-recent-post.php:157
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: includes/widgets/widget-popular-post.php:229
+msgid "Post Views"
+msgstr "Visitas de las entradas"
+
+#: includes/widgets/widget-popular-post.php:70
+msgid " Views"
+msgstr "Visitas"
+
+#: includes/widgets/widget-popular-post.php:68
+msgid " View"
+msgstr "Visita"
+
+#: includes/widgets/widget-popular-post.php:66
+msgid "0 View"
+msgstr "0 visitas"
+
+#: includes/widgets/widget-popular-post.php:29
+msgid "A Popular Post Widget"
+msgstr "Un widget de entradas populares"
+
+#: includes/widgets/widget-popular-post.php:28
+msgid "Rara: Popular Post"
+msgstr "Rara: Popular Post"
+
+#: includes/widgets/widget-image.php:140
+msgid "Select image size"
+msgstr "Seleccionar el tamaño de la imagen"
+
+#: includes/widgets/widget-image.php:137
+msgid "Image Size"
+msgstr "Tamaño de la imagen"
+
+#: includes/widgets/widget-image.php:122
+msgid "Button label"
+msgstr "Etiqueta del botón"
+
+#: includes/widgets/widget-image.php:117
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/widgets/widget-image.php:26
+msgid "An Image Widget."
+msgstr "Un widget de imágenes."
+
+#: includes/widgets/widget-image.php:25
+msgid "Rara: Image Widget"
+msgstr "Rara: Image Widget"
+
+#: includes/widgets/widget-icon-text.php:155
+msgid "Read More Link"
+msgstr "Enlace de «Leer más»"
+
+#: includes/widgets/widget-icon-text.php:145
+msgid "Read More Label"
+msgstr "Etiqueta de «Leer más»"
+
+#: includes/widgets/widget-icon-text.php:130
+#: includes/widgets/widget-stat-counter.php:155
+msgid "Icons"
+msgstr "Iconos"
+
+#: includes/widgets/widget-icon-text.php:127
+msgid "or"
+msgstr "o"
+
+#: includes/widgets/widget-icon-text.php:26
+msgid "An Icon Text Widget."
+msgstr "Un widget de icono de texto."
+
+#: includes/widgets/widget-icon-text.php:25
+msgid "Rara: Icon Text"
+msgstr "Rara: Icon Text"
+
+#: includes/widgets/widget-featured.php:130
+#: includes/widgets/widget-popular-post.php:248
+#: includes/widgets/widget-recent-post.php:176
+msgid "Show Post Thumbnail"
+msgstr "Mostrar la miniatura de la entrada"
+
+#: includes/widgets/widget-featured.php:114
+msgid "Posts"
+msgstr "Entradas"
+
+#: includes/widgets/widget-featured.php:26
+msgid "A Featured Widget"
+msgstr "Un widget de entradas destacadas"
+
+#: includes/widgets/widget-featured.php:25
+msgid "Rara: Featured Widget"
+msgstr "Rara: Featured Widget"
+
+#: includes/widgets/widget-featured-page.php:196
+#: includes/widgets/widget-featured.php:124
+msgid "Read More Text"
+msgstr "Texto de «Leer más»"
+
+#: includes/widgets/widget-featured-page.php:183
+msgid "Show Page Title"
+msgstr "Mostrar el título de la página"
+
+#: includes/widgets/widget-featured-page.php:176
+msgid "Show Featured Image"
+msgstr "Mostrar la imagen destacada"
+
+#: includes/widgets/widget-featured-page.php:165
+msgid "Page:"
+msgstr "Página:"
+
+#: includes/widgets/widget-custom-categories.php:116
+#: includes/widgets/widget-featured-page.php:160
+#: includes/widgets/widget-pinterest.php:69
+#: includes/widgets/widget-posts-category-slider.php:214
+#: includes/widgets/widget-snapchat.php:106
+msgid "Title:"
+msgstr "Titulo:"
+
+#: includes/widgets/widget-featured-page.php:138
+#: includes/widgets/widget-featured.php:96
+msgid "--Choose--"
+msgstr "—Elegir—"
+
+#: includes/widgets/widget-featured-page.php:49
+#: includes/widgets/widget-featured-page.php:152
+#: includes/widgets/widget-featured-page.php:247
+msgid "Read More"
+msgstr "Leer más"
+
+#: includes/widgets/widget-featured-page.php:26
+msgid "A Featured Page Widget"
+msgstr "Un widget de página destacada"
+
+#: includes/widgets/widget-featured-page.php:25
+msgid "Rara: A Featured Page Widget"
+msgstr "Rara: Featured Page Widget"
+
+#: includes/widgets/widget-faqs.php:127
+msgid "Add FAQs"
+msgstr "Añadir FAQ"
+
+#: includes/widgets/widget-faqs.php:93
+msgid "Enable FAQs Toggle"
+msgstr "Activar el conmutador de FAQ"
+
+#: includes/widgets/widget-faqs.php:53
+msgid "Expand/Close"
+msgstr "Ampliar/cerrar"
+
+#: includes/widgets/widget-faqs.php:26
+msgid "A Widget for FAQs."
+msgstr "Un widget para FAQ."
+
+#: includes/widgets/widget-faqs.php:25
+msgid "Rara: FAQs"
+msgstr "Rara: FAQs"
+
+#: includes/widgets/widget-cta.php:186
+msgid "Button Alignment:"
+msgstr "Alineación del botón:"
+
+#: includes/widgets/widget-cta.php:227
+msgid "Button 2 Link"
+msgstr "Enlace del botón 2"
+
+#: includes/widgets/widget-cta.php:223
+msgid "Button 2 Label"
+msgstr "Etiqueta del botón 2"
+
+#: includes/widgets/widget-cta.php:216
+msgid "Button 1 Link"
+msgstr "Enlace del botón 1"
+
+#: includes/widgets/widget-cta.php:212
+msgid "Button 1 Label"
+msgstr "Etiqueta del botón 1"
+
+#: includes/widgets/widget-cta.php:200
+msgid "Number of Call-to-Action Buttons:"
+msgstr "Número de botones de llamada a la acción:"
+
+#: includes/widgets/widget-author-bio.php:356
+#: includes/widgets/widget-contact.php:244 includes/widgets/widget-cta.php:195
+#: includes/widgets/widget-icon-text.php:121
+#: includes/widgets/widget-team-member.php:213
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/widgets/widget-cta.php:27
+msgid "A Call To Action Widget."
+msgstr "Un widget de llamada a la acción."
+
+#: includes/widgets/widget-cta.php:26
+msgid "Rara: Call To Action"
+msgstr "Rara: Call To Action"
+
+#: includes/widgets/widget-client-logo.php:166
+msgid "Add Another Logo"
+msgstr "Añadir otro logotipo"
+
+#: includes/widgets/widget-advertisement.php:128
+#: includes/widgets/widget-client-logo.php:155
+#: includes/widgets/widget-image-text.php:44
+#: includes/widgets/widget-image-text.php:172
+#: includes/widgets/widget-image.php:127
+msgid "Featured Link"
+msgstr "Enlace destacado"
+
+#. Author URI of the plugin
+msgid "https://raratheme.com/"
+msgstr "https://raratheme.com/"
+
+#. Author of the plugin
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/raratheme-companion"
+msgstr "https://es.wordpress.org/plugins/raratheme-companion"
+
+#. Plugin Name of the plugin
+msgid "RaraTheme Companion"
+msgstr "RaraTheme Companion"
+
+#: includes/widgets/widget-twitter-feeds.php:187
+msgid "Number of tweets"
+msgstr "Número de tuits"
+
+#: includes/widgets/widget-twitter-feeds.php:182
+msgid "Widget Width"
+msgstr "Anchura del widget"
+
+#: includes/widgets/widget-twitter-feeds.php:177
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: includes/widgets/widget-twitter-feeds.php:172
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: includes/widgets/widget-twitter-feeds.php:167
+msgid "Twitter Username"
+msgstr "Nombre de usuario de Twitter"
+
+#: includes/widgets/widget-twitter-feeds.php:154
+#: includes/widgets/widget-twitter-feeds.php:155
+msgid "Choose a theme&hellip;"
+msgstr "Elige un tema..."
+
+#: includes/widgets/widget-twitter-feeds.php:153
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/widgets/widget-twitter-feeds.php:40
+msgid "A widget that shows latest tweets"
+msgstr "Un widget que muestra los últimos tuits"
+
+#: includes/widgets/widget-twitter-feeds.php:39
+msgid "RARA: Latest Tweets"
+msgstr "RARA: Latest Tweets"
+
+#: includes/widgets/widget-testimonial.php:111
+msgid "Testimonial"
+msgstr "Recomendación"
+
+#: includes/widgets/widget-testimonial.php:26
+msgid "A Testimonial Widget."
+msgstr "Un widget de recomendaciones."
+
+#: includes/widgets/widget-testimonial.php:25
+msgid "Rara: Testimonial"
+msgstr "Rara: Testimonial"
+
+#: includes/widgets/widget-team-member.php:251
+msgid "Behance Profile"
+msgstr "Perfil de Behance"
+
+#: includes/widgets/widget-team-member.php:247
+msgid "Dribbble Profile"
+msgstr "Perfil de Dribbble"
+
+#: includes/widgets/widget-team-member.php:243
+msgid "YouTube Profile"
+msgstr "Perfil de YouTube"
+
+#: includes/widgets/widget-team-member.php:239
+msgid "Instagram Profile"
+msgstr "Perfil de Instagram"
+
+#: includes/widgets/widget-team-member.php:235
+msgid "Facebook Profile"
+msgstr "Perfil de Facebook"
+
+#: includes/widgets/widget-team-member.php:231
+msgid "Twitter Profile"
+msgstr "Perfil de Twitter"
+
+#: includes/widgets/widget-team-member.php:225
+msgid "LinkedIn Profile"
+msgstr "Perfil de LinkedIn"
+
+#: includes/widgets/widget-team-member.php:217
+msgid "Upload Photo"
+msgstr "Subir una foto"
+
+#: includes/widgets/widget-team-member.php:208
+#: includes/widgets/widget-testimonial.php:106
+msgid "Designation"
+msgstr "Nombramiento"
+
+#: includes/widgets/widget-team-member.php:203
+#: includes/widgets/widget-testimonial.php:101
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/widgets/widget-team-member.php:148
+msgid "closepopup"
+msgstr "closepopup"
+
+#: includes/widgets/widget-team-member.php:26
+msgid "A Team Member Widget."
+msgstr "Un widget de miembros del equipo."
+
+#: includes/widgets/widget-team-member.php:25
+msgid "Rara: Team Member"
+msgstr "Rara: Team Member"
+
+#: includes/widgets/widget-stat-counter.php:151
+msgid "Disable Comma(,) Separation"
+msgstr "Desactivar la separación con coma (,)"
+
+#: includes/widgets/widget-stat-counter.php:145
+msgid "Counter"
+msgstr "Contador"
+
+#: includes/widgets/widget-stat-counter.php:25
+msgid "Rara: Stat Counter Widget"
+msgstr "Rara: Stat Counter Widget"
+
+#: includes/widgets/widget-stat-counter.php:26
+msgid "Widget for stat counter."
+msgstr "Widget para un contador de estadísticas."
+
+#: includes/widgets/widget-author-bio.php:438
+#: includes/widgets/widget-contact.php:317
+#: includes/widgets/widget-social-links.php:279
+msgid "Click on the above button to add social media icons. You can also change the order of the social icons."
+msgstr "Haz clic en el botón de arriba para añadir iconos de medios sociales. También puedes cambiar el orden de los iconos sociales."
+
+#: includes/widgets/widget-contact.php:316
+#: includes/widgets/widget-social-links.php:278
+msgid "Add Social Icon"
+msgstr "Añadir un icono social"
+
+#: includes/widgets/widget-advertisement.php:139
+#: includes/widgets/widget-author-bio.php:388
+#: includes/widgets/widget-client-logo.php:139
+#: includes/widgets/widget-cta.php:233
+#: includes/widgets/widget-image-text.php:150
+#: includes/widgets/widget-popular-post.php:276
+#: includes/widgets/widget-recent-post.php:185
+#: includes/widgets/widget-social-links.php:227
+msgid "Open in New Tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: includes/widgets/widget-social-links.php:206
+msgid "Subscribe and Follow"
+msgstr "Suscribir y seguir"
+
+#: includes/widgets/widget-author-bio.php:103
+#: includes/widgets/widget-author-bio.php:423
+#: includes/widgets/widget-contact.php:63
+#: includes/widgets/widget-contact.php:301
+#: includes/widgets/widget-social-links.php:63
+#: includes/widgets/widget-social-links.php:263
+msgid "Link"
+msgstr "Enlace"
+
+#: includes/widgets/widget-author-bio.php:102
+#: includes/widgets/widget-contact.php:62
+#: includes/widgets/widget-social-links.php:62
+msgid "Search Social Icons"
+msgstr "Buscar iconos sociales"
+
+#: includes/widgets/widget-author-bio.php:100
+#: includes/widgets/widget-author-bio.php:420
+#: includes/widgets/widget-contact.php:60
+#: includes/widgets/widget-contact.php:298
+#: includes/widgets/widget-social-links.php:60
+#: includes/widgets/widget-social-links.php:260
+msgid "Social Icon"
+msgstr "Icono social"
+
+#: includes/widgets/widget-social-links.php:45
+msgid "A Social Links Widget"
+msgstr "Un widget de enlaces sociales"
+
+#: includes/widgets/widget-social-links.php:44
+msgid "Rara: Social Media"
+msgstr "Rara: Social Media"
+
+#: includes/widgets/widget-recent-post.php:105
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/widgets/widget-recent-post.php:40
+#: includes/widgets/widget-recent-post.php:143
+#: includes/widgets/widget-recent-post.php:204
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: includes/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Un widget de entradas recientes"
+
+#: includes/widgets/widget-recent-post.php:25
+msgid "Rara: Recent Post"
+msgstr "Rara: Recent Post"
+
+#: includes/widgets/widget-popular-post.php:269
+msgid "Show number of views"
+msgstr "Mostrar el número de visitas"
+
+#: includes/widgets/widget-popular-post.php:260
+msgid "Show number of comments"
+msgstr "Mostrar el número de comentarios"
+
+#: includes/widgets/widget-popular-post.php:253
+#: includes/widgets/widget-recent-post.php:181
+msgid "Show Post Date"
+msgstr "Mostrar la fecha de la entrada"
+
+#: includes/widgets/widget-advertisement.php:125
+#: includes/widgets/widget-client-logo.php:154
+#: includes/widgets/widget-cta.php:254
+#: includes/widgets/widget-icon-text.php:125
+#: includes/widgets/widget-image-text.php:37
+#: includes/widgets/widget-image-text.php:165
+#: includes/widgets/widget-image.php:149
+#: includes/widgets/widget-stat-counter.php:168
+#: includes/widgets/widget-testimonial.php:116
+msgid "Upload Image"
+msgstr "Subir una imagen"
+
+#: includes/widgets/widget-client-logo.php:135
+msgid "Display logo in black and white"
+msgstr "Mostrar el logotipo en blanco y negro"
+
+#: includes/widgets/widget-advertisement.php:113
+#: includes/widgets/widget-author-bio.php:330
+#: includes/widgets/widget-client-logo.php:130
+#: includes/widgets/widget-contact.php:239 includes/widgets/widget-cta.php:190
+#: includes/widgets/widget-facebook-page.php:107
+#: includes/widgets/widget-icon-text.php:116
+#: includes/widgets/widget-image-text.php:145
+#: includes/widgets/widget-image.php:112
+#: includes/widgets/widget-popular-post.php:217
+#: includes/widgets/widget-recent-post.php:152
+#: includes/widgets/widget-social-links.php:223
+#: includes/widgets/widget-stat-counter.php:140
+#: includes/widgets/widget-twitter-feeds.php:149
+msgid "Title"
+msgstr "Título"
+
+#: includes/widgets/widget-client-logo.php:26
+msgid "A Client Logo Widget."
+msgstr "Un widget de logotipos de clientes."
+
+#: includes/widgets/widget-client-logo.php:25
+msgid "Rara: Client Logo"
+msgstr "Rara: Client Logo"
+
+#: admin/class-raratheme-companion-admin.php:371
+#: admin/class-raratheme-companion-admin.php:407
+#: includes/class-raratheme-companion-functions.php:616
+msgid "Remove Image"
+msgstr "Eliminar la imagen"
+
+#: includes/class-raratheme-companion-functions.php:610
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Actualiza tu versión de WordPress para tener compatibilidad completa con medios."
+
+#: includes/class-raratheme-companion-functions.php:602
+msgid "No file chosen"
+msgstr "No se ha elegido ningún archivo"
+
+#: includes/class-raratheme-companion-functions.php:23
+msgid "Search Icon"
+msgstr "Icono de búsqueda"
+
+#: admin/class-raratheme-companion-admin.php:342
+msgid "New Categories Name"
+msgstr "Nombre de la nueva categoría"
+
+#: admin/class-raratheme-companion-admin.php:341
+msgid "Add New Categories"
+msgstr "Añadir una nueva categoría"
+
+#: admin/class-raratheme-companion-admin.php:340
+msgid "Update Categories"
+msgstr "Actualizar la categoría"
+
+#: admin/class-raratheme-companion-admin.php:339
+msgid "Edit Categories"
+msgstr "Editar la categoría"
+
+#: admin/class-raratheme-companion-admin.php:336
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: admin/class-raratheme-companion-admin.php:335
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: admin/class-raratheme-companion-admin.php:286
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: admin/class-raratheme-companion-admin.php:285
+msgid "Remove featured image"
+msgstr "Eliminar la imagen destacada"
+
+#: admin/class-raratheme-companion-admin.php:284
+msgid "Set featured image"
+msgstr "Establecer la imagen destacada"
+
+#: admin/class-raratheme-companion-admin.php:283
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: admin/class-raratheme-companion-admin.php:282
+msgid "Not found in Trash"
+msgstr "No se ha encontrado en la papelera"
+
+#: admin/class-raratheme-companion-admin.php:281
+msgid "Not found"
+msgstr "No se ha encontrado"
+
+#: admin/class-raratheme-companion-admin.php:274
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: admin/class-raratheme-companion-admin.php:221
+#: includes/widgets/widget-faqs.php:102 includes/widgets/widget-faqs.php:117
+msgid "Answer"
+msgstr "Respuesta"
+
+#: admin/class-raratheme-companion-admin.php:219
+#: includes/widgets/widget-faqs.php:100 includes/widgets/widget-faqs.php:115
+msgid "Question"
+msgstr "Pregunta"
+
+#: admin/class-raratheme-companion-admin.php:180
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: admin/class-raratheme-companion-admin.php:185
+#: includes/class-raratheme-companion-functions.php:624
+msgid "Please upload valid image file."
+msgstr "Por favor, sube un archivo de imagen válido."
+
+#: admin/class-raratheme-companion-admin.php:172
+#: admin/class-raratheme-companion-admin.php:184
+#: includes/class-raratheme-companion-functions.php:607
+msgid "Change"
+msgstr "Cambiar"
+
+#: admin/class-raratheme-companion-admin.php:171
+#: admin/class-raratheme-companion-admin.php:183
+#: includes/class-raratheme-companion-functions.php:605
+msgid "Upload"
+msgstr "Subir"
+
+#: admin/class-raratheme-companion-admin.php:338
+msgid "Parent Categories:"
+msgstr "Categorías superiores:"
+
+#: admin/class-raratheme-companion-admin.php:337
+msgid "Parent Categories"
+msgstr "Categorías superiores"
+
+#. Description of the plugin
+msgid "23 extremely useful custom widgets to create an engaging website."
+msgstr "23 widgets personalizados extremadamente útiles para crear una web atrayente."
